@@ -4,9 +4,6 @@
 
 <img src="https://img.shields.io/badge/flutter-333333?style=for-the-badge&logo=flutter&logoColor=blue"/> <img src="https://img.shields.io/badge/dart-333333?style=for-the-badge&logo=dart&logoColor=blue"/> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
-### Контакты
-
-<img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue&link=https://t.me/IvaKrapivka"/> <img src="https://img.shields.io/badge/vk-333333?style=for-the-badge&logo=vk&logoColor=blue&link=https://vk.com/krapivka436"/> 
 
 
 <!--
